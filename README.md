@@ -259,4 +259,4 @@ Before deploying to production:
 
 ## License
 
-This project is provided as-is for educational purposes.
+This project is developed for task round
